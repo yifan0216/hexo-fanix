@@ -69,7 +69,7 @@ Plugins:
 sitemap: 
 path: sitemap.xml
 ## Themes: http://hexo.io/themes/
-theme: maupassant
+theme: light
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
