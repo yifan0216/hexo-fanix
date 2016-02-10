@@ -65,6 +65,7 @@ pagination_dir: page
 Plugins: 
 - hexo-generator-sitemap
 - hexo-math
+##- hexo-tag-aplayer
 
 sitemap: 
 path: sitemap.xml
